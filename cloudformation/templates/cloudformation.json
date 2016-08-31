@@ -943,6 +943,8 @@
                                   ]
                                 },
                                 "/cog",
+                                "\n",
+                                "COG_DB_SSL=false",
                                 "\n"
                               ]
                             ]
