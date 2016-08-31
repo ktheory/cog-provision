@@ -914,7 +914,10 @@
                                     "Endpoint.Port"
                                   ]
                                 },
-                                "/cog"
+                                "/cog",
+                                "\n",
+                                "COG_DB_SSL=false",
+                                "\n"
                               ]
                             ]
                           },
